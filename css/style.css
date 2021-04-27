@@ -1,0 +1,40 @@
+*{
+    
+    font-family: 'Courgette', cursive;
+    color: white;
+}
+body{
+    background-image: url(../img/NX7PC.jpg);
+}
+header{
+    background-color:whitesmoke ;
+    height: 60px;
+}
+h1{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    vertical-align:middle;
+    height: 20%;
+    font-weight: bolder;
+    color: #000;
+}
+main{
+   text-align: center;  
+    margin: 70px;
+}
+main #form{
+    padding-right: 20px;
+}
+main #data{
+    /* position: absolute; */
+    top: 70px;
+    left: 450px;  
+}
+table,tr,th,td{
+    border-collapse: collapse;
+    border:2px solid whitesmoke
+
+/* WhiteSmoke
+RGBA(211, 211, 211, 0.548)
+RGB(78, 78, 78)
+RGB(39, 39, 39) */
